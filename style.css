@@ -1,0 +1,123 @@
+/* Editando as seções */
+#sobre,
+#servicos,
+#portfolio,
+#contato {
+  padding: 10rem 0;
+}
+/* Hero Section */
+.bgimage {
+  height: 100vh;
+  position: relative;
+  background: url("images/home.jpg");
+  background-size: cover;
+}
+
+.heroTitle {
+  font-size: 3.5rem;
+  text-align: center;
+}
+
+.heroDesc {
+  font-size: 2rem;
+  text-align: center;
+}
+.heroText {
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgb(183, 186, 190);
+}
+
+/* Imagem Sobre Mim */
+.aboutImage {
+  width: 100%;
+}
+
+.servicesText.card {
+  height: 280px;
+  cursor: pointer;
+  padding: 0 2rem;
+}
+
+.servicesIcon {
+  height: 36px;
+  text-align: center;
+  width: 100%;
+}
+.cardTitle {
+  text-align: center;
+}
+.card:hover .servicesIcon {
+  color: #9405f4;
+}
+
+.servicesText:hover {
+  border: 1px solid #002080;
+}
+
+/* Estilização do Cabeçalho*/
+.navbar {
+  background: rgb(65, 109, 136);
+  background: radial-gradient(
+    circle,
+    rgba(65, 109, 136, 1) 14%,
+    rgba(54, 66, 85, 1) 61%,
+    rgba(43, 42, 44, 1) 79%
+  );
+}
+.navbar a {
+  color: rgb(183, 186, 190);
+  padding: 0.5rem;
+}
+.navbar a:hover {
+  background-color: aliceblue;
+  color: black;
+  border-radius: 4px;
+}
+/* Aula 3: Icones seção contato */
+.contactIcon {
+  font-size: 2rem;
+  color: rgb(77, 3, 117);
+}
+/* Footer */
+footer {
+  background: rgb(9, 9, 10);
+}
+.footerIcon {
+  font-size: 2rem;
+  color: azure;
+}
+.footerIcon:hover {
+  color: rgb(137, 135, 134);
+}
+.footerDev {
+  background: rgb(65, 109, 136);
+  background: radial-gradient(
+    circle,
+    rgba(65, 109, 136, 1) 14%,
+    rgba(54, 66, 85, 1) 61%,
+    rgba(43, 42, 44, 1) 79% );
+}
+
+/* Efeito de GlassMorphismo */
+.glass {
+  position: absolute;
+  height: 40%;
+
+  
+  
+
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+
+background: rgba(65, 109, 136, 0.41);
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(9.3px);
+-webkit-backdrop-filter: blur(9.3px);
+text-align: center;
+}
