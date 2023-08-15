@@ -1,1 +1,10 @@
 # Portfolio
+O **Projeto Final Portfolio**, foi estruturado com as seções: Início, Sobre, Serviços, Contato e Portfólio. As cores mais presentes no projeto foram: preto, azul, branco e cinza. 
+*Na seção Início foi utilizada a fonte "Segoe U, com tamanhos : 16px para menu fixado; 56px para o título; 32px para descrição, cores:#B7BABE; #212529 . No Backgroud, o fundo url foi retirado do site freepik, cuja imagem versa sobre tecnologia cores:#0d0e0e; #acb0b1; #565757; #5399c0.
+Também, foi utilizado o efeito do Glassmorphism, que dá um tom de transparência (efeito vidro) cor: #416D8869 na área aplicada. 
+*Na seção Sobre, foi inserida uma imagem/foto minha e uma breve descrição sobre mim, nome, idade, ocupação, sobre transição de carreira, desafios e soft skills.
+*na seção Serviços, discorro sobre design gráfico web com a utilização de ferramentas como Adobe Photoshop, WordPress e Illustrator. Disserto também, sobre o desenvolvimento de sites responsivos utilizando códigos HTML, CSS e JavaScript com foco na experiência do usuário. E ainda, falo sobre hard Skills , cujas habilidades são: suporte técnico de TI; conhecimentos acerca de sistemas operacionais, criação de relatórios interativos e gráficos avançados com Power BI, bem como, o conhecimento em programação: HTML, CSS, JavaScript, Python, PHP e BD MySQL.
+*na seção Contato, deixo disponibilizado minha localização do Google Maps, número de telefone, e-mail, links de acesso ao meu GitHub e links de redes sociais.
+*Por fim, na seção Portfolio, disponibilizo os quatro projetos elaborados (Estante de Livros, Locadora 2000, Mario Jump Web e Cartão Virtual), e uma breve descrição em cada card, sobre como eles foram feitos e quais códigos foram trabalhados para que ficassem prontos.
+
+Isto posto, quero agradecer ao grupo +Prati, Codifica Edu, pela oportunidade de estudar, adquirir conhecimentos valiosos para minha carreira na TI. Agradeço também, ao professor Henrique Casagrande pela disponibilidade, paciência e didática utilizadas nas aulas. Espero passar para a próxima fase e continuar trilhando o meu caminho como Dev Front-End. 
